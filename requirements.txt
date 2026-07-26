@@ -1,0 +1,7 @@
+tensorflow==2.20.0
+keras==3.11.3
+streamlit==1.48.0
+numpy==1.24.3
+scikit-learn
+sastrawi
+h5py
