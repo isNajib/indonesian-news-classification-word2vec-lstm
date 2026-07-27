@@ -13,11 +13,6 @@ venv/
 data/raw/
 data/processed/
 
-# Model files
-models/*.keras
-models/*.h5
-models/*.pkl
-
 # OS
 .DS_Store
 Thumbs.db
